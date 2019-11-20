@@ -39,7 +39,7 @@
     4. 环境变量设置完成后，进入wujian100_open/workdir 目录开始仿真
     5. 目前环境中支持iverilog和vcs 两种工具仿真。以timer 测试case为例：
        如果您想要使用iverilog 进行仿真，请在workdir目录下执行命令‘../tools/run_case -sim_tool iverilog ../case/timer/timer_test.c'
-       如果您想要使用vcs 进行仿真，请在workdir目录下执行命令‘../tools/run_case -sim_tool iverilog ../case/timer/timer_test.c' 
+       如果您想要使用vcs 进行仿真，请在workdir目录下执行命令‘../tools/run_case -sim_tool vcs ../case/timer/timer_test.c' 
     6. 等待仿真结束，仿真结束会打印“Test Pass”表明本次仿真测试通过
 
 

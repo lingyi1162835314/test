@@ -99,4 +99,4 @@ Done
 # 讨论
 
 如果想要对wujian100_open工程进行讨论和建议，可以通过以下链接打开二维码，使用钉钉扫描进入我们的讨论群：
-    https://cop-image-prod.oss-cn-hangzhou.aliyuncs.com/mcu/q.jpg
+    ![讨论群](https://cop-image-prod.oss-cn-hangzhou.aliyuncs.com/mcu/q.jpg)
